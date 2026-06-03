@@ -18,10 +18,7 @@ mkdir -p ~/.local/share/fonts && cp ~/下载/JetBrainsMono/* ~/.local/share/font
 fc-cache -fv
 ~~~
 
-- **curl**
 
-~~~bash
-~~~
 
 
 
