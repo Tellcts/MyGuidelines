@@ -68,3 +68,12 @@ uv python find
 
 
 
+## 五、uv 镜像配置
+~~~toml
+python-install-mirror = "https://registry.npmmirror.com/-/binary/python-build-standalone/"
+
+[[index]]
+name = "Tsinghua"
+url = "https://pypi.tuna.tsinghua.edu.cn/simple"
+default = true
+~~~
